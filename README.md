@@ -37,14 +37,4 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=saturi11&show_icons=true&theme=neon"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=saturi11&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=saturi11&show_icons=true" />
-</picture>
+<img (https://github-readme-stats.vercel.app/api/top-langs/?username=saturi11)](https://github.com/anuraghazra/github-readme-stats) />
