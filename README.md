@@ -37,4 +37,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<img (https://github-readme-stats.vercel.app/api/top-langs/?username=saturi11)](https://github.com/anuraghazra/github-readme-stats) />
+<div aling = "center">
+  <img https://github-readme-stats.vercel.app/api/top-langs/?username=saturi11 https://github.com/anuraghazra/github-readme-stats/>
+</div>
+
