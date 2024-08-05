@@ -38,6 +38,6 @@
 
 ###
 <div aling = "center">
-  <img https://github-readme-stats.vercel.app/api/top-langs/?username=saturi11 https://github.com/anuraghazra/github-readme-stats/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saturi11&show_icons=true&theme=neon&cont_private=true"/>
 </div>
 
