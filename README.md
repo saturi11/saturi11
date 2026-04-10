@@ -1,52 +1,62 @@
 <h1 align="center">Gabriel Saturi</h1>
-<h3 align="center">Mid Software Engineer | .NET | ASP.NET | AWS | SQL | ORACLE</h3>
+
+<h3 align="center">Mid Software Engineer | Backend | .NET | Java | AWS | SQL</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Software Engineer with a hybrid profile: strong backend engineering combined with Agile leadership and a data-driven mindset.
+I’m a Mid Software Engineer focused on backend development, distributed architectures, and high-availability systems.
 
-Currently working as a **.NET Developer and Agile Master**, I design and evolve scalable applications using C#, ASP.NET Core and Web APIs, while also driving process efficiency, delivery flow and team autonomy.
+I work with technologies such as **C#**, **.NET**, **Java**, and **SQL**, building solutions that balance performance, reliability, and maintainability. My experience spans RESTful APIs, Clean Architecture, design patterns, asynchronous processing, and cloud-based environments.
 
-I don’t just write code — I build maintainable systems and sustainable delivery processes.
+I’ve worked on mission-critical systems in the oil and gas industry, as well as distributed e-commerce platforms, where I contributed to system modernization, performance improvements, security hardening, and scalable integrations.
+
+I value technical depth, clear architecture, and practical delivery. I adapt quickly to different contexts, work well across teams, and focus on building software that is robust, efficient, and sustainable.
 
 ---
 
 ## 🧠 Core Expertise
 
-- Backend development with **.NET (C#, ASP.NET Core, Web APIs)**
-- Software architecture patterns (MVC, layered architecture)
-- Clean Code, SOLID and automated testing
-- Database modeling and optimization (SQL Server, PostgreSQL, Oracle)
-- CI/CD pipelines and Git-based workflows
-- Agile frameworks (Scrum, Kanban)
-- Data analysis with Python, Power BI and advanced Excel
+- Backend development with **C#**, **.NET**, **Java**
+- RESTful APIs and distributed system design
+- Clean Architecture, SOLID, and design patterns
+- Asynchronous workflows and message-based systems
+- Performance tuning and scalability optimization
+- SQL development and query optimization
+- AWS-based application environments
+- Automated testing and safer refactoring
+- Secure configuration and production reliability
 
 ---
 
 ## 🚀 What You’ll Find Here
 
-This GitHub contains projects focused on:
+This GitHub profile contains projects and experiments related to:
 
-- Scalable backend architectures
-- Data analysis and machine learning experiments
-- Full-stack experiments and applied engineering practices
-- Real-world business problem simulations
+- Backend engineering
+- Distributed architectures
+- API design and integrations
+- Performance and reliability improvements
+- Practical software engineering practices
 
 ---
 
-## 🎯 Professional Direction
+## 🎯 Focus Areas
 
-My goal is to continuously evolve at the intersection of:
+My current focus is on building strong backend systems with:
 
-Engineering Excellence  
-Agile Leadership  
-Data & Intelligent Systems  
+- **Scalability**
+- **Maintainability**
+- **Reliability**
+- **Good architecture**
+- **Clean delivery**
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/gabriel-saturi
+- Email: gabrielsaturi11@gmail.com
+- GitHub: github.com/saturi11
 - Portfolio: https://bit.ly/portfolio-GabrielSaturi
