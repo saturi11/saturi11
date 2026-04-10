@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Saturi</h1>
-<h3 align="center">Software Engineer | .NET Developer | Agile Master | Data-Oriented Thinker</h3>
+<h3 align="center">Mid Software Engineer | .NET | ASP.NET | AWS | SQL | ORACLE</h3>
 
 ---
 
